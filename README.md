@@ -11,9 +11,9 @@ I created a simple calendar application that allows a user to save events for ea
   * JavaScript
   * JQuery
 
-View live site at: 
+View live site at: https://reinholz36.github.io/Work-Day-Scheduler/
 
-<a href="">
+<a href="https://reinholz36.github.io/Work-Day-Scheduler/">
 <img src="./assets/images/scheduler.jpg" alt="Work Day Scheduler title">
 </a>
 
